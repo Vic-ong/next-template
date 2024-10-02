@@ -1,0 +1,18 @@
+# general
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+
+# artifacts
+build
+coverage
+
+# lock files
+package.json
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# misc
+.github
